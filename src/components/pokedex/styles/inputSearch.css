@@ -1,0 +1,26 @@
+.pokedex__form{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pokedex__input{
+    padding: 10px 20px;
+    box-shadow: -1px 2px 10px #0004;
+    font-size: 1.2rem;
+    height: 40px;
+}
+
+.pokedex__search-btn{
+    padding: 10px 20px;
+    color:var(--color-white);
+    background-color: var(--color-red);
+    box-shadow: -1px 2px 10px #0004;
+    cursor: pointer;
+    height: 40px;
+}
+
+.pokedex__search-btn:hover{
+    filter: brightness(1.2);    
+}

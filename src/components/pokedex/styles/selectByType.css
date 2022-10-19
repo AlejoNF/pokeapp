@@ -1,0 +1,18 @@
+.type__list{
+    width: 400px;
+    padding: 0.8rem 1.5rem;
+    background-color: rgb(241, 241, 241);
+    border-radius: 15px;
+}
+.type__option{
+    gap:0.5rem;
+}
+/* .type__option{
+    display:flex;
+    gap: 50rem;
+}
+.type__option:hover{
+    background-color: #ED8F8F ;
+    padding: 0.1rem;
+    border-radius: 25px;
+} */
